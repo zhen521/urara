@@ -1,10 +1,8 @@
 ---
-title: Elements
+title: 一只猪死在房间里
 created: 2022-09-11
 tags: ['Urara', 'Elements']
 ---
-
-# 一只猪死在房间里
 
 ## 我爱南京
 
