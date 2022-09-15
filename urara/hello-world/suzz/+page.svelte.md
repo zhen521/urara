@@ -20,19 +20,3 @@ tags: ['Urara', 'Elements']
 
 我写文字的中心在哪里，我不是写小说，不是写日记，我到底在写什么。我不是个文字工作者，我学习编程的，可是我没有天赋。也许只是自己太懒，但我真的没有学好自己的专业，文字也没有好好写。
 
-<script src="https://giscus.app/client.js"
-        data-repo="zwz-wwj/giscus"
-        data-repo-id="R_kgDOIAFCgA"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOIAFCgM4CRcY7"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
